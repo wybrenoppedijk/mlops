@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Deep Learning/.idea/Deep Learning.iml" filepath="$PROJECT_DIR$/../../../../Deep Learning/.idea/Deep Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/dtu_mlops.iml" filepath="$PROJECT_DIR$/../../.idea/dtu_mlops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercise_files.iml" filepath="$PROJECT_DIR$/.idea/exercise_files.iml" />
+    </modules>
+  </component>
+</project>
